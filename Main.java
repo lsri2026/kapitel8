@@ -10,14 +10,18 @@ public class Main
     public static void main()
     {
         int summe = 0;
-        int oG = 10;
-        for(int i = 0; i <= oG; i++)
+
+        int obereGrenze = 10;
+        
+        for(int i = 0; i <= obereGrenze; i++)
+
         {
             summe += i;
         }
         
         int mult = 1;
-        for(int i = 1; i <= oG; i++)
+        for(int i = 1; i <= obereGrenze; i++)
+
         {
             mult *= i;
         }
