@@ -30,5 +30,7 @@ public class Main
         System.out.println("Mult= " + mult);
         
         // coole Idee 1
+        
+        // coole Idee ...
     }
 }
