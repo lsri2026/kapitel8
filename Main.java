@@ -10,14 +10,14 @@ public class Main
     public static void main()
     {
         int summe = 0;
-        
-        for(int i = 0; i <= 20; i++)
+        int oG = 10;
+        for(int i = 0; i <= oG; i++)
         {
             summe += i;
         }
         
         int mult = 1;
-        for(int i = 1; i <= 10; i++)
+        for(int i = 1; i <= oG; i++)
         {
             mult *= i;
         }
