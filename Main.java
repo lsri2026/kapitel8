@@ -21,7 +21,9 @@ public class Main
             summe += i;
         }
         
+
         BigInteger mult = new BigInteger("1");
+
         for(int i = 1; i <= obereGrenze; i++)
 
         {
