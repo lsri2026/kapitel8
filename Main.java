@@ -11,7 +11,7 @@ public class Main
     {
         int summe = 0;
 
-        int obereGrenze = 10;
+        int obereGrenze = 50;
         
         for(int i = 0; i <= obereGrenze; i++)
 
